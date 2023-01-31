@@ -122,7 +122,7 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 
 <br><br>
 
-## <b>Result:  False! Unprovoked attacks have a higher death rate, and its distribution is not clearly impacted by the time of the attack
+## <b>Result:  Unprovoked attacks have a higher death rate, and its distribution is not clearly impacted by the time of the attack , according to this sample
 
 
 
@@ -162,7 +162,7 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 
 <br><br>
 
-## <b> Conclusion:  False! The white shark (Most aggresive specie) is not the deadliest, according to this sample<b>
+## <b> Conclusion: The white shark (Most aggresive specie) is not the deadliest, according to this sample<b>
 
 
 <br><br>
@@ -215,4 +215,4 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 <br><br>
 
 
-## <b>Conclusion:  True! there's evidence that attacks happen mostly during hot months, with surfing and swimming as the main activities behind the attacks<b>
+## <b>Conclusion:   There's evidence that attacks happen mostly during hot months, with surfing and swimming as the main activities behind the attacks, according to this sample<b>
