@@ -49,6 +49,7 @@ The Jupyter notebook has documentation, sharing step by step the code and criter
 
 The notebook exports attacks_clean.csv, used by the exploratory data analysis (EDA) notebook.
 
+<br>
 
 ### 2- EDA (Exploratory Data Analysis)
 <br>
@@ -121,7 +122,7 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 
 <br><br>
 
-# <b>Result:  False! Unprovoked attacks have a higher death rate, and its distribution is not clearly impacted by the time of the attack
+## <b>Result:  False! Unprovoked attacks have a higher death rate, and its distribution is not clearly impacted by the time of the attack
 
 
 
@@ -143,6 +144,7 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 
 
 <br><br>
+
 ### Which top 5 specie is the most deadly?
 
 
@@ -160,7 +162,7 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 
 <br><br>
 
-#<b>Result:  False! The white shark (Most aggresive specie) is not the deadliest, according to this sample<b>
+## <b> Conclusion:  False! The white shark (Most aggresive specie) is not the deadliest, according to this sample<b>
 
 
 <br><br>
@@ -170,13 +172,14 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 # <b>Hypothesis 3:<b> "Attacks happen mostly when the weather is hot, having Swimming and Surfing as the most common activities linked to shark attacks"
 
 
-
+<br>
 
 ## Sampling countries: What are the top 5 Countries? is the % of events relevant?
 
 - Usa, Australia, South Africa, New Zealand and Brazil make the top 5 countries with most shark attacks in the sample.
 - This subset makes up 72% of the sampled cases, making it relevant for analysis.
 
+<br>
 
 ## What are the top 5 Activities? is the % of events relevant?
 
@@ -185,6 +188,7 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 - The mix of activities depend on each country, although Swimming and Surfing are the top activities linked to the attacks.
 - Its visible that USA and Australia are the countries most affected by shark attacks.
 
+<br>
 
 ![local_picture](./images/11.png)
 
@@ -199,7 +203,7 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 - After grouping the north and south hemisphere top countries and analyzing the distribution of attacks during the year, its reasonable to say that attacks happen with more frequency during hot months.
 - This applies across all activities, We have evidence that supports this hypothesis.
 
-
+<br>
 
 ![local_picture](./images/13.png)
 
@@ -211,4 +215,4 @@ The notebook exports attacks_clean.csv, used by the exploratory data analysis (E
 <br><br>
 
 
-### <b>Result:  True! there's evidence that attacks happen mostly during hot months, with surfing and swimming as the main activities behind the attacks<b>
+## <b>Conclusion:  True! there's evidence that attacks happen mostly during hot months, with surfing and swimming as the main activities behind the attacks<b>
